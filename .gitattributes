@@ -20,3 +20,5 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+
+THIS IS A CHANGE DONE BY ME
